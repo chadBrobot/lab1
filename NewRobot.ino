@@ -1,4 +1,5 @@
 //Arduino PWM Speed Control：
+// Authors: Jack Casey-Campbell and Breann Thiessen
 int rm_pin = 5;   //PWM on M2
 int rm_dir = 4;   //direction control on M2
 int lm_pin = 6;   //PWM for M1
