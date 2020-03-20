@@ -1,6 +1,7 @@
 #include <AFMotor.h>
 #include <math.h> 
 //set up for motor and speeds
+// Authors: Jack Casey-Campbell and Breann Thiessen
 AF_DCMotor motor_left(1); //pin 11
 AF_DCMotor motor_right(2); //pin 3
 
